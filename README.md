@@ -39,7 +39,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 
 - [X] Primeiros passos
-- [ ] Aprendendo a Aprender
+- [X] Aprendendo a Aprender
 - [ ] Iniciando HTML e CSS
 - [ ] Avançando HTML e CSS
 - [ ] JavaScript
