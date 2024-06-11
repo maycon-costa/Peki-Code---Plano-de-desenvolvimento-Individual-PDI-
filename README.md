@@ -42,7 +42,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] Aprendendo a Aprender
 - [X] Iniciando HTML e CSS
 - [X] Avançando HTML e CSS
-- [ ] JavaScript
+- [X] JavaScript
 - [ ] Git e GitHub
 - [ ] Projeto final
 
