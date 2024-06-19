@@ -15,12 +15,12 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 * [HTML + CSS + JavaScript]
 * [Desenvovlimento Web]
-
+* [React]
 <br>
 
 ## :clipboard:  Sobre os Cursos 
 
-
+* [React Completo Para Iniciantes](https://www.youtube.com/watch?v=-GPQNQzeO7M)
 * [Rocketseat Discover](https://www.rocketseat.com.br/discover)
 
 ### Mateiral de apoio
@@ -45,6 +45,8 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] JavaScript
 - [X] Git e GitHub
 - [X] Projeto final
+- [ ] Git Flow
+- [ ] React
 
 <br>
 
