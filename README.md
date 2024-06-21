@@ -46,7 +46,7 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 - [X] Git e GitHub
 - [X] Projeto final
 - [ ] Git Flow
-- [ ] React
+- [X] Iniciando React
 
 <br>
 
